@@ -1,4 +1,4 @@
-# py-dts
+# Kominfo DTS Pro Academy
 Digital Talent Scholarship 
 
-forked from  https://github.com/sykrn/py-dts
+forked and edited from : https://github.com/sykrn/py-dts
